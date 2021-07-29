@@ -3,7 +3,7 @@
 <h1 align="center">hello 👋, I am Coipo Norte</h1>
 <h3 align="center">This repository is to upload my small projects for my studies.</h3>
 
-I like programming and this is some information about me.:
+I like programming and this is some information about me:
 
 - 🔭 I am currently studying computer control engineering.
 - 🌱 I am currently learning web development.
