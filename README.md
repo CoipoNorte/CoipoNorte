@@ -1,4 +1,4 @@
-### Hi there 👋
+### ù.ú
 
 <h1 align="center">hello 👋, I am Coipo Norte</h1>
 <h3 align="center">This repository is to upload my small projects for my studies.</h3>
