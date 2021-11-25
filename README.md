@@ -12,7 +12,7 @@ I like programming and this is some information about me:
 - 💬 Ask me about design
 - 📫 How to contact me: christiancaceres1398
 - 😄 Pronouns: He
-- ⚡ Fun fact: Coipos are from the southern part of Chile.
+- ⚡ Fun fact: Coipos are from the southern of Chile.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
