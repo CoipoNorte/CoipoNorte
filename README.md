@@ -1,18 +1,52 @@
 ### ù.ú
 
 <h1 align="center">hello 👋, I am Coipo Norte</h1>
-<h3 align="center">This repository is to upload my small projects for my studies.</h3>
 
-I like programming and this is some information about me:
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-Universidad%20de%20Tarapacá-blue" alt="Universidad de Tarapacá" />
+  <img src="https://img.shields.io/badge/🛠️-Ingeniero%20Civil%20en%20Computación%20e%20Informática-lightgrey" alt="Título profesional" />
+  <img src="https://img.shields.io/badge/🌎-Iquique%2C%20Chile-green" alt="Ubicación" />
+</p>
 
-- 🔭 I am currently studying computer control engineering.
-- 🌱 I am currently learning web development.
-- 👯 I am looking to collaborate on simple pages.
-- 🤔 I am looking for help to learn about DB.
-- 💬 Ask me about design
-- 📫 How to contact me: christiancaceres1398
-- 😄 Pronouns: He
-- ⚡ Fun fact: Coipos are from the southern of Chile.
+---
+
+## Sobre mí
+
+Soy Ingeniero Civil en Computación e Informática titulado en la Universidad de Tarapacá (Chile). Durante mi paso por la U adquirí sólidos conocimientos en algoritmos, estructuras de datos y gestión de proyectos, y descubrí mi pasión por el desarrollo web y el diseño de interfaces intuitivas.
+
+Actualmente:
+- 🔭 Desarrollando proyectos personales de frontend y backend.
+- 🌱 Aprendiendo frameworks modernos (React, Vite, NestJS).
+- 👯 Buscando colaborar en páginas sencillas y open source.
+- 🤔 Interesado en profundizar en bases de datos y arquitectura de sistemas.
+
+---
+
+## Tecnologías y Herramientas
+
+| Lenguajes            | Frontend                   | Backend / DB              | Diseño / Otros           |
+| -------------------- | -------------------------- | ------------------------- | ------------------------ |
+| C, C++, Java, Python | HTML5, CSS3, JavaScript    | Node.js, PHP, MySQL, MongoDB | Figma, Git, VS Code      |
+|                      | Bootstrap, Tailwind CSS    | NestJS, Express.js        | Postman, Docker          |
+
+---
+
+## ¿Cómo contactarme?
+
+- 📫 GitHub: [@christiancaceres1398](https://github.com/christiancaceres1398)  
+- 💼 LinkedIn: [christian-caceres](https://www.linkedin.com/in/christian-caceres/)  
+- 📧 Email: christiancaceres1398@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christiancaceres1398&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancaceres1398&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
