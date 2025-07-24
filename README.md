@@ -33,8 +33,8 @@ Actualmente:
 
 ## ¿Cómo contactarme?
 
-- 📫 GitHub: [@christiancaceres1398](https://github.com/christiancaceres1398)  
-- 💼 LinkedIn: [christian-caceres](https://www.linkedin.com/in/christian-caceres/)  
+- 📫 GitHub: [@christiancaceres1398](https://github.com/coiponorte)  
+- 💼 LinkedIn: [christian-caceres](https://www.linkedin.com/in/christian-caceres-marin-538045365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Email: christiancaceres1398@gmail.com
 
 ---
