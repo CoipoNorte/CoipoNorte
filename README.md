@@ -13,6 +13,7 @@
 ## Sobre mí
 
 Soy Ingeniero Civil en Computación e Informática titulado en la Universidad de Tarapacá (Chile). Durante mi paso por la U adquirí sólidos conocimientos en algoritmos, estructuras de datos y gestión de proyectos.
+
 Actualmente:
 - 🔭 Desarrollando proyectos personales de frontend y backend.
 - 🌱 Aprendiendo frameworks modernos (React, Vite, NestJS).
