@@ -39,15 +39,6 @@ Actualmente:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christiancaceres1398&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancaceres1398&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
