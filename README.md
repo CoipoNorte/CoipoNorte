@@ -126,7 +126,7 @@ Soy **Ingeniero Civil en Computación e Informática** titulado en la Universida
   
   <h3>¡Gracias por visitar mi perfil! 🦫</h3>
   
-  <img src="icon/icon.jpeg" alt="Coipo Norte" width="50">
+  <img src="logo/coipo_sp.jpeg" alt="Coipo Norte" width="200">
   
   **Coipo Norte** - *Construyendo software con pasión desde Iquique* 🌊
 </div>
