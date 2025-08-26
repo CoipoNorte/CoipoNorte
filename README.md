@@ -1,7 +1,7 @@
 ### ù.ú
 
 <div align="center">
-  <img src="icon/icon.jpeg" alt="Coipo Norte Logo" width="200" height="160" style="border-radius: 50%;">
+  <img src="icon/icon.jpeg" alt="Coipo Norte Logo" width="200" height="165" style="border-radius: 50%;">
   
   # Hello 👋, I am Coipo Norte
   
@@ -25,7 +25,7 @@
 
 ## 🦫 Sobre mí
 
-<img align="right" src="festividades/coipo_18septiembre.png" alt="Coipo Norte" width="200" style="margin-left: 20px;">
+<img align="right" src="festividades/coipo_18septiembre.png" alt="Coipo Norte" width="225" style="margin-left: 20px;">
 
 Soy **Ingeniero Civil en Computación e Informática** titulado en la Universidad de Tarapacá (Chile). Durante mi formación universitaria adquirí sólidos conocimientos en algoritmos, estructuras de datos y gestión de proyectos de software.
 
