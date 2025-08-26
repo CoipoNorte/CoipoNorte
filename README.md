@@ -1,7 +1,7 @@
 ### ù.ú
 
 <div align="center">
-  <img src="icon/icon.jpeg" alt="Coipo Norte Logo" width="200" height="200" style="border-radius: 50%;">
+  <img src="icon/icon.jpeg" alt="Coipo Norte Logo" width="200" height="160" style="border-radius: 50%;">
   
   # Hello 👋, I am Coipo Norte
   
