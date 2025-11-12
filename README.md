@@ -25,7 +25,7 @@
 
 ## 🦫 Sobre mí
 
-<img align="right" src="festividades/coipo_18septiembre.png" alt="Coipo Norte" width="225" style="margin-left: 20px;">
+<img align="right" src="festividades/coipo_navidad.png" alt="Coipo Norte Navidad" width="225" style="margin-left: 20px;">
 
 Soy **Ingeniero Civil en Computación e Informática** titulado en la Universidad de Tarapacá (Chile). Durante mi formación universitaria adquirí sólidos conocimientos en algoritmos, estructuras de datos y gestión de proyectos de software.
 
@@ -126,7 +126,7 @@ Soy **Ingeniero Civil en Computación e Informática** titulado en la Universida
   
   <h3>¡Gracias por visitar mi perfil! 🦫</h3>
   
-  <img src="logo/coipo_sp.jpeg" alt="Coipo Norte" width="200">
+  <img src="img/coipo_sp.jpeg" alt="Coipo Norte" width="200">
   
   **Coipo Norte** - *Construyendo software con pasión desde Iquique* 🌊
 </div>
