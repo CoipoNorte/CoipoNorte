@@ -25,7 +25,7 @@
 
 ## 🦫 Sobre mí
 
-<img align="right" src="festividades/coipo_navidad.png" alt="Coipo Norte Navidad" width="225" style="margin-left: 20px;">
+<img align="right" src="festividades/otropixel.png" alt="Coipo Norte" width="225" style="margin-left: 20px;">
 
 Soy **Ingeniero Civil en Computación e Informática** titulado en la Universidad de Tarapacá (Chile). Durante mi formación universitaria adquirí sólidos conocimientos en algoritmos, estructuras de datos y gestión de proyectos de software.
 
