@@ -91,13 +91,56 @@ Soy **Ingeniero Civil en Computación e Informática** titulado en la Universida
 
 ---
 
-## 🏆 Proyectos Destacados
+## 🚀 Ecosistema Learning CoipoNorte
 
-<div align="center">
-  <a href="https://github.com/coiponorte/sayen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coiponorte&repo=sayen&theme=tokyonight&hide_border=true" alt="Sayen Project">
-  </a>
-</div>
+He desarrollado una colección de repositorios enfocados en el aprendizaje práctico de distintas áreas del desarrollo de software, desde frontend y backend hasta infraestructura, bases de datos e inteligencia artificial.
+
+### 🎨 Frontend
+
+| Proyecto                                             | Descripción              |
+| ---------------------------------------------------- | ------------------------ |
+| [rlearning](https://github.com/CoipoNorte/rlearning) | React desde cero         |
+| [tlearning](https://github.com/CoipoNorte/tlearning) | Tailwind CSS v4          |
+| [blearning](https://github.com/CoipoNorte/blearning) | React Bootstrap          |
+| [hlearning](https://github.com/CoipoNorte/hlearning) | HTML5, CSS3 y JavaScript |
+| [flearning](https://github.com/CoipoNorte/flearning) | Vue, Svelte y TypeScript |
+
+### ⚙️ Backend
+
+| Proyecto                                               | Descripción               |
+| ------------------------------------------------------ | ------------------------- |
+| [slearning](https://github.com/CoipoNorte/slearning)   | Express y SQLite          |
+| [dblearning](https://github.com/CoipoNorte/dblearning) | SQL, PostgreSQL y MongoDB |
+| [plearning](https://github.com/CoipoNorte/plearning)   | Deploy y CI/CD            |
+
+### 🛠️ Infraestructura
+
+| Proyecto                                             | Descripción                    |
+| ---------------------------------------------------- | ------------------------------ |
+| [clearning](https://github.com/CoipoNorte/clearning) | Docker y Máquinas Virtuales    |
+| [dlearning](https://github.com/CoipoNorte/dlearning) | Git, VSCode y herramientas Dev |
+
+### 🧠 IA y Ciencia de Datos
+
+| Proyecto                                             | Descripción                                  |
+| ---------------------------------------------------- | -------------------------------------------- |
+| [alearning](https://github.com/CoipoNorte/alearning) | Algoritmos, Machine Learning y Deep Learning |
+| [ilearning](https://github.com/CoipoNorte/ilearning) | BI, Python y análisis de datos               |
+
+---
+
+## 🌐 Demos y GitHub Pages
+
+Algunos proyectos cuentan con demostraciones online para visualizar su funcionamiento directamente desde el navegador.
+
+| Proyecto                 | Demo                                                   |
+| ------------------------ | ------------------------------------------------------ |
+| Navegación Sidebar React | https://coiponorte.github.io/Navegacion-React          |
+| Navbar React Bootstrap   | https://coiponorte.github.io/Navbar-Position-React-BT5 |
+| rlearning                | https://coiponorte.github.io/rlearning                 |
+| tlearning                | https://coiponorte.github.io/tlearning                 |
+
+> Los enlaces se actualizan periódicamente conforme evolucionan los proyectos.
 
 ---
 
