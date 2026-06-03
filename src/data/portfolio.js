@@ -8,7 +8,7 @@ export const info = {
   available: true,
   email:     'christiancaceres1398@gmail.com',
   phone:     '+56 9 8919 8933',
-  github:    'https://github.com/CoipoNorte',
+  github:    'https://github.com/CoipoNorte/CoipoNorte/blob/main/README.md',
   linkedin:  'https://www.linkedin.com/in/christian-caceres-marin-538045365',
   whatsapp:  'https://wa.me/56989198933?text=Hola%20Christian%2C%20vi%20tu%20portafolio%20y%20me%20interesa%20contactarte',
   instagram: 'https://instagram.com/coipo_norte',
