@@ -35,7 +35,7 @@ modernas y los sistemas que realmente funcionan.
 ```
 
 **Portafolio** — [enlace](https://coiponorte.github.io/CoipoNorte/)
-**DenguNorte** — [enlace](https://coiponorte.github.io/coiponorte-precios/)
+**Precios & Cotizaciones** — [enlace](https://coiponorte.github.io/coiponorte-precios/)
 
 ---
 
