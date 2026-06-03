@@ -40,7 +40,7 @@ export default function Navbar() {
         <div className="navbar__inner container">
 
           <button className="navbar__brand" onClick={() => smoothScroll('hero')}>
-            <img src="/portfolio/assets/coiponorteSinFondo.ico" alt="logo" className="navbar__logo" />
+            <img src="/CoipoNorte/assets/coiponorteSinFondo.ico" alt="logo" className="navbar__logo" />
             <span className="navbar__name">
               Christian <span className="navbar__name-accent">Cáceres</span>
             </span>
@@ -108,4 +108,4 @@ export default function Navbar() {
       {menuOpen && <div className="mobile-overlay" onClick={() => setMenuOpen(false)} />}
     </>
   )
-}
+}

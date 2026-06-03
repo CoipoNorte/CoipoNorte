@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="container footer__inner">
 
         <div className="footer__brand">
-          <img src="/portfolio/assets/coiponorteSinFondo.ico" alt="logo" className="footer__logo" />
+          <img src="/CoipoNorte/assets/coiponorteSinFondo.ico" alt="logo" className="footer__logo" />
           <div>
             <p className="footer__name">Christian Cáceres Marín</p>
             <p className="footer__role">Full Stack Developer · {info.location}</p>

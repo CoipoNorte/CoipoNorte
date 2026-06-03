@@ -74,7 +74,7 @@ export const projects = [
     featured: true,
     github: 'https://github.com/CoipoNorte/coiponorte-precios',
     demo:   'https://coiponorte.github.io/coiponorte-precios',
-    image:  '/portfolio/assets/1.png',
+    image:  '/CoipoNorte/assets/1.png',
   },
   {
     id: 2,
@@ -85,7 +85,7 @@ export const projects = [
     featured: true,
     github: null,
     demo:   'https://www.vivimar.cl',
-    image:  '/portfolio/assets/2.png',
+    image:  '/CoipoNorte/assets/2.png',
   },
   {
     id: 3,
@@ -96,7 +96,7 @@ export const projects = [
     featured: true,
     github: 'https://github.com/CoipoNorte/Animales-de-Chile',
     demo:   'https://coiponorte.github.io/Animales-de-Chile',
-    image:  '/portfolio/assets/3.png',
+    image:  '/CoipoNorte/assets/3.png',
   },
   {
     id: 4,
@@ -107,7 +107,7 @@ export const projects = [
     featured: false,
     github: 'https://github.com/CoipoNorte',
     demo:   null,
-    image:  '/portfolio/assets/4.png',
+    image:  '/CoipoNorte/assets/4.png',
   },
 ]
 
@@ -116,4 +116,4 @@ export const navLinks = [
   { label: 'Stack',    id: 'stack'    },
   { label: 'Proyectos',id: 'projects' },
   { label: 'Contacto', id: 'contact'  },
-]
+]
