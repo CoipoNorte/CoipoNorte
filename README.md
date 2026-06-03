@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon/Celeste/coiponorteSinFondo.png" width="120" style="border-radius: 50%" alt="logo" />
+  <img src="img/icon/Celeste/coiponorteSinFondo.png" width="120" style="border-radius: 50%" alt="logo" />
   
   <h1>Christian Cáceres Marín</h1>
   <h3>Ingeniero Civil en Computación e Informática</h3>

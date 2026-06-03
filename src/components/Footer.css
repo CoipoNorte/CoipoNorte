@@ -1,0 +1,44 @@
+.footer {
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  padding: 32px 0;
+}
+
+.footer__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.footer__brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.footer__logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  object-fit: contain;
+}
+
+.footer__name {
+  font-size: .875rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.footer__role {
+  font-size: .75rem;
+  color: var(--text-3);
+  margin-top: 2px;
+}
+
+.footer__copy {
+  font-size: .78rem;
+  color: var(--text-3);
+}
+
