@@ -77,7 +77,7 @@ modernas y los sistemas que realmente funcionan.
 ## Estadísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coiponorte&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Ingeniero+Civil+en+Informatica;Iquique%2C+Chile+%F0%9F%8C%8A" />
 </div>
 
 <div align="center">
