@@ -34,8 +34,8 @@ y empresas de la Región de Tarapacá. Apasionado por el software limpio, las in
 modernas y los sistemas que realmente funcionan.
 ```
 
-**Portafolio** — [enlace](https://coiponorte.github.io/CoipoNorte/)
-**Precios & Cotizaciones** — [enlace](https://coiponorte.github.io/coiponorte-precios/)
+**Portafolio** — Desarrollo de Software [enlace](https://coiponorte.github.io/CoipoNorte/)  
+**Precios & Cotizaciones** — Soporte e Informática [enlace](https://coiponorte.github.io/coiponorte-precios/)
 
 ---
 
