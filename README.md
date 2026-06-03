@@ -34,8 +34,8 @@ y empresas de la Región de Tarapacá. Apasionado por el software limpio, las in
 modernas y los sistemas que realmente funcionan.
 ```
 
-**CoipoNorte** — Desarrollo de Software  
-**DenguNorte** — Soporte e Informática
+**Portafolio** — [enlace](https://coiponorte.github.io/CoipoNorte/)
+**DenguNorte** — [enlace](https://coiponorte.github.io/coiponorte-precios/)
 
 ---
 
