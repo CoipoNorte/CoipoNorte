@@ -40,8 +40,6 @@ export default function Projects() {
         {/* Learning carousel */}
         <LearningCarousel />
 
-        <h1>AQUI TEXTO</h1>
-
       </div>
     </section>
   )
