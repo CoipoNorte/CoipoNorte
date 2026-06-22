@@ -1,4 +1,5 @@
 import { projects } from '../data/portfolio'
+import LearningCarousel from './LearningCarousel'
 import './Projects.css'
 
 export default function Projects() {
@@ -35,6 +36,9 @@ export default function Projects() {
             </div>
           </div>
         )}
+
+        {/* Learning carousel */}
+        <LearningCarousel />
 
       </div>
     </section>
