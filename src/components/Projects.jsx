@@ -44,8 +44,6 @@ export default function Projects() {
         {/* Chilean Desktop carousel */}
         <ChileanDesktopCarousel />
 
-        <h1>AQUI VA DEFINITIVAMENTE ALGO</h1>
-
       </div>
     </section>
   )
