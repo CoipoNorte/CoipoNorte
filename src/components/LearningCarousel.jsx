@@ -71,7 +71,9 @@ export default function LearningCarousel() {
               className="carousel-card fade-up"
               style={{ animationDelay: `${i * 0.08}s` }}
             >
-              <div className="carousel-card__icon">{site.icon}</div>
+              <div className="carousel-card__thumb">
+                <img src={site.thumbnail} alt={site.title} loading="lazy" />
+              </div>
               <div className="carousel-card__body">
                 <span className="carousel-card__category">{site.category}</span>
                 <h4 className="carousel-card__title">{site.title}</h4>

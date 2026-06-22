@@ -1,5 +1,6 @@
 import { projects } from '../data/portfolio'
 import LearningCarousel from './LearningCarousel'
+import ChileanDesktopCarousel from './ChileanDesktopCarousel'
 import './Projects.css'
 
 export default function Projects() {
@@ -39,6 +40,9 @@ export default function Projects() {
 
         {/* Learning carousel */}
         <LearningCarousel />
+
+        {/* Chilean Desktop carousel */}
+        <ChileanDesktopCarousel />
 
       </div>
     </section>
