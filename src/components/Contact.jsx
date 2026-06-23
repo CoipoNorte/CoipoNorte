@@ -63,7 +63,7 @@ export default function Contact() {
 
         <div className="contact__inner">
 
-          <div className="contact__text fade-up">
+          <div className="contact__text reveal reveal--up">
             <span className="section-label">Contacto</span>
             <h2 className="section-title">
               ¿Tienes un proyecto<br />
@@ -91,8 +91,7 @@ export default function Contact() {
                 href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="contact-link fade-up"
-                style={{ animationDelay: `${i * 0.1}s` }}
+                className="contact-link reveal reveal--up"
               >
                 <span className="contact-link__icon">{link.icon}</span>
                 <div className="contact-link__text">

@@ -14,7 +14,7 @@ export default function About() {
       <div className="container">
         <div className="about__inner">
 
-          <div className="about__text fade-up">
+          <div className="about__text reveal reveal--up">
             <span className="section-label">Sobre mí</span>
             <h2 className="section-title">
               Construyo software<br />
@@ -57,8 +57,7 @@ export default function About() {
             {highlights.map((h, i) => (
               <div
                 key={i}
-                className="highlight-card fade-up"
-                style={{ animationDelay: `${i * 0.1}s` }}
+                className="highlight-card reveal reveal--up"
               >
                 <span className="highlight-card__icon">{h.icon}</span>
                 <div>

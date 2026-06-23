@@ -34,7 +34,7 @@
 .contact-link:hover {
   border-color: var(--accent);
   transform: translateX(4px);
-  box-shadow: -4px 0 0 var(--accent);
+  box-shadow: -4px 0 0 var(--accent), 0 4px 20px rgba(88,101,242,.1);
 }
 
 .contact-link__icon {

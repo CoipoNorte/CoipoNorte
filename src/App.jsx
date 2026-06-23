@@ -7,14 +7,17 @@ import Projects from './components/Projects'
 import Contact  from './components/Contact'
 import Footer   from './components/Footer'
 import { initGlobalSmoothScroll } from './utils/smoothScroll'
+import useScrollReveal from './hooks/useScrollReveal'
 
 export default function App() {
+  const revealRef = useScrollReveal()
+
   useEffect(() => {
     initGlobalSmoothScroll()
   }, [])
 
   return (
-    <>
+    <div ref={revealRef}>
       <Navbar />
       <main>
         <Hero />
@@ -24,6 +27,6 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

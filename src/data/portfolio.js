@@ -1,13 +1,10 @@
 export const info = {
   name:      'Christian Cáceres Marín',
   role:      'Full Stack Developer',
-  roleAlt:   'Ingeniero Civil en Computación e Informática',
   uni:       'Universidad de Tarapacá',
   location:  'Iquique, Chile 🇨🇱',
   bio:       'Desarrollador full stack con formación en ingeniería informática. Construyo aplicaciones web modernas con React y Express, enfocado en interfaces limpias, código mantenible y soluciones reales para emprendedores y empresas.',
-  available: true,
   email:     'christiancaceres1398@gmail.com',
-  phone:     '+56 9 8919 8933',
   github:    'https://github.com/CoipoNorte/CoipoNorte/blob/main/README.md',
   linkedin:  'https://www.linkedin.com/in/christian-caceres-marin-538045365',
   whatsapp:  'https://wa.me/56989198933?text=Hola%20Christian%2C%20vi%20tu%20portafolio%20y%20me%20interesa%20contactarte',

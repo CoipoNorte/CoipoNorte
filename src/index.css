@@ -35,7 +35,6 @@
   --shadow-glow: 0 0 40px rgba(88,101,242,.15);
   --shadow-card: 0 4px 24px rgba(0,0,0,.4);
 
-  --navbar-h:    64px;
   --max-w:       1100px;
 }
 
@@ -132,11 +131,28 @@ body {
 .btn--primary {
   background: var(--accent);
   color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn--primary::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(110deg, transparent 25%, rgba(255,255,255,.12) 50%, transparent 75%);
+  background-size: 200% 100%;
+  opacity: 0;
+  transition: opacity .3s;
+}
+
+.btn--primary:hover::after {
+  opacity: 1;
+  animation: shimmer 1.2s ease infinite;
 }
 
 .btn--primary:hover {
   background: var(--accent-hover);
-  box-shadow: 0 4px 20px var(--accent-glow);
+  box-shadow: 0 4px 20px var(--accent-glow), 0 0 40px rgba(88,101,242,.15);
   transform: translateY(-2px);
 }
 
@@ -144,6 +160,7 @@ body {
   background: transparent;
   color: var(--text);
   border: 1.5px solid var(--border);
+  position: relative;
 }
 
 .btn--outline:hover {
@@ -151,6 +168,7 @@ body {
   color: var(--accent);
   background: var(--accent-light);
   transform: translateY(-2px);
+  box-shadow: 0 0 20px rgba(88,101,242,.12);
 }
 
 .btn--ghost {
@@ -181,7 +199,25 @@ body {
   50%       { opacity: 0; }
 }
 
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
 .fade-up { animation: fadeUp .6s ease both; }
+
+/* ─── Scroll Reveal ─── */
+.reveal {
+  opacity: 0;
+  transition: opacity .7s cubic-bezier(.4,0,.2,1), transform .7s cubic-bezier(.4,0,.2,1);
+}
+
+.reveal--up    { transform: translateY(40px); }
+.reveal.revealed {
+  opacity: 1;
+  transform: translate(0) scale(1);
+}
+
 
 /* ─── Responsive ─── */
 @media (max-width: 768px) {

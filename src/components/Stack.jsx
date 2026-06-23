@@ -6,7 +6,7 @@ export default function Stack() {
     <section id="stack" className="section stack-section">
       <div className="container">
 
-        <div className="stack-section__header fade-up">
+        <div className="stack-section__header reveal reveal--up">
           <span className="section-label">Tecnologías</span>
           <h2 className="section-title">Mi Stack</h2>
           <p className="section-desc">
@@ -18,8 +18,7 @@ export default function Stack() {
           {stack.map((group, i) => (
             <div
               key={group.category}
-              className="stack-card fade-up"
-              style={{ animationDelay: `${i * 0.1}s` }}
+              className="stack-card reveal reveal--up"
             >
               <div className="stack-card__header">
                 <span className="stack-card__icon">{group.icon}</span>

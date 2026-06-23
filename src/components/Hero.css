@@ -144,7 +144,7 @@
 }
 
 .btn--lg   { padding: 12px 26px; font-size: .95rem; }
-.btn--icon { padding: 10px; width: 42px; height: 42px; justify-content: center; }
+.btn--icon { padding: 10px; width: 42px; height: 42px; justify-content: center; flex-shrink: 0; }
 
 /* Code card */
 .hero__card {
@@ -219,15 +219,41 @@
   justify-content: center;
   cursor: pointer;
   color: var(--text-3);
-  transition: color .2s, border-color .2s, transform .2s;
-  animation: fadeIn 1s ease 1s both;
+  transition: color .2s, border-color .2s, box-shadow .2s;
+  animation: fadeIn .8s ease .6s both, floatBounceCenter 2.5s ease-in-out 1s infinite;
+  box-shadow: 0 0 20px rgba(88,101,242,.15);
+  z-index: 2;
 }
 
 .hero__scroll:hover {
   color: var(--accent);
   border-color: var(--accent);
-  transform: translateX(-50%) translateY(3px);
+  box-shadow: 0 0 30px rgba(88,101,242,.35);
 }
+
+/* Background ambient glow pulse */
+.hero__glow::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  height: 400px;
+  background: radial-gradient(ellipse at center, rgba(88,101,242,.08) 0%, transparent 70%);
+  animation: glowPulse 4s ease-in-out infinite alternate;
+}
+
+@keyframes glowPulse {
+  0%   { opacity: .5; transform: translate(-50%, -50%) scale(1); }
+  100% { opacity: 1;  transform: translate(-50%, -50%) scale(1.15); }
+}
+
+@keyframes floatBounceCenter {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50%      { transform: translateX(-50%) translateY(-8px); }
+}
+
 
 /* Responsive */
 @media (max-width: 860px) {
@@ -235,8 +261,49 @@
     grid-template-columns: 1fr;
     gap: 48px;
     padding-top: 100px;
-    padding-bottom: 60px;
+    padding-bottom: 100px;
+  }
+
+  .hero__scroll {
+    bottom: 24px;
+    width: 38px;
+    height: 38px;
   }
 
   .hero__card { display: none; }
+
+  .hero__glow {
+    width: 500px;
+    height: 400px;
+  }
+
+  .hero__glow::after {
+    width: 350px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero__scroll {
+    bottom: 16px;
+    width: 38px;
+    height: 38px;
+  }
+
+  .hero__ctas {
+    gap: 8px;
+  }
+
+  .hero__ctas .btn--lg {
+    flex: 1;
+    min-width: 0;
+    justify-content: center;
+    padding: 10px 12px;
+    font-size: .88rem;
+  }
+
+  .hero__ctas .btn--icon {
+    width: 42px;
+    height: 42px;
+  }
 }

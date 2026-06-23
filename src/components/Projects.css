@@ -39,6 +39,20 @@
 
 .project-card:hover .project-card__image { transform: scale(1.04); }
 
+.project-card__image-wrap::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, rgba(88,101,242,.08) 0%, transparent 70%);
+  opacity: 0;
+  transition: opacity .4s;
+  pointer-events: none;
+}
+
+.project-card:hover .project-card__image-wrap::after {
+  opacity: 1;
+}
+
 .project-card__image-overlay {
   position: absolute;
   inset: 0;
@@ -141,6 +155,7 @@
 .project-mini:hover {
   border-color: var(--accent);
   transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(0,0,0,.2), 0 0 20px rgba(88,101,242,.08);
 }
 
 /* Texto izquierda */

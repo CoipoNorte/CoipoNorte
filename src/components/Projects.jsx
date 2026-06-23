@@ -11,7 +11,7 @@ export default function Projects() {
     <section id="projects" className="section projects-section">
       <div className="container">
 
-        <div className="projects-section__header fade-up">
+        <div className="projects-section__header reveal reveal--up">
           <span className="section-label">Trabajo</span>
           <h2 className="section-title">Proyectos</h2>
           <p className="section-desc">
@@ -54,8 +54,7 @@ function ProjectCard({ project, index }) {
 
   return (
     <article
-      className={`project-card fade-up ${even ? '' : 'project-card--reverse'}`}
-      style={{ animationDelay: `${index * 0.15}s` }}
+      className={`project-card reveal reveal--up ${even ? '' : 'project-card--reverse'}`}
     >
       <div className="project-card__image-wrap">
         <img
@@ -114,8 +113,7 @@ function ProjectCard({ project, index }) {
 function ProjectMini({ project, index }) {
   return (
     <article
-      className="project-mini fade-up"
-      style={{ animationDelay: `${index * 0.1}s` }}
+      className="project-mini reveal reveal--up"
     >
       {/* Texto izquierda */}
       <div className="project-mini__body">
