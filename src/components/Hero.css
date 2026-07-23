@@ -291,11 +291,13 @@
   }
 
   .hero__ctas {
+    display: flex;
+    flex-wrap: wrap;
     gap: 8px;
   }
 
   .hero__ctas .btn--lg {
-    flex: 1;
+    flex: 1 1 calc(50% - 4px);
     min-width: 0;
     justify-content: center;
     padding: 10px 12px;

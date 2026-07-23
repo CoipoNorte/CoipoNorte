@@ -183,6 +183,11 @@ body {
   border-color: var(--border-hover);
 }
 
+.btn--sm {
+  padding: 8px 14px;
+  font-size: .78rem;
+}
+
 /* ─── Animations ─── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(24px); }
